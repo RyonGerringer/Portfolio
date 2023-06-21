@@ -19,8 +19,7 @@ const Loader = () => {
         }}
 
       >
-        {progress.toFixed(2)}%
-      </p>
+        {progress.toFixed(2)}%</p>
     </Html>
   )
 }

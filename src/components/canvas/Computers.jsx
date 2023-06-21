@@ -21,7 +21,7 @@ const Computers = () => {
         shadow-mapSize={1024}
         />
         <group
-          rotation={[-0.01, -0.2, -0.1]}>
+          rotation={[-0.01, 0.75, -0.1]}>
           <primitive
             object={computer.scene}
             scale={0.75}
